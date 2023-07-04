@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Developing web with PHP and wordpress**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning the new version of **NextJS 13**
 
 - 👨‍💻 All of my projects are available at [https://josevte.com](https://josevte.com)
 
-- 📫 How to reach me **jvrs.90@gmail.com**
+- 📫 How to reach me **LinkedIn**
 
 - 📄 Know about my experiences [https://josevte.com/cv](https://josevte.com/cv)
 
